@@ -1,0 +1,42 @@
+.login{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #E5E5E5;
+}
+.login__title{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 70px;
+    margin-left: -50px;
+    font-size: 80px;
+    font-weight: 600;
+}
+.up{
+    .up__btn{
+        display: block;
+        margin: 0 auto;
+    }
+    .up__box{
+        text-align: center;
+    }
+    input{
+        width: 50%;
+        margin: 0 auto;
+    }
+}
+.in{
+    .in__btn{
+        display: block;
+        margin: 0 auto;
+    }
+    .in__box{
+        text-align: center;
+    }
+    input{
+        width: 50%;
+        margin: 0 auto;
+    }
+}

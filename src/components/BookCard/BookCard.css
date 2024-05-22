@@ -1,0 +1,25 @@
+.BookCard {
+    color: white;
+
+    img {
+        width: 164px;
+        height: 246px;
+        border-radius: 15px;
+        object-fit: cover;
+    }
+
+    h4 {
+        color: var(--lightOrange);
+        font-weight: 300;
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 12px;
+        color: rgb(255, 255, 255, 0.6);
+    }
+
+    .reyting {
+        width: 230px;
+    }
+}

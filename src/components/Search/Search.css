@@ -1,0 +1,35 @@
+.Search{
+    border-radius: 21px;
+    background: var(--mainDark);
+    overflow: hidden;
+    text-align: center;
+    padding: 40px;
+    position: relative;
+    z-index: 10;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: -50px;
+    h2{
+        color: var(--lightOrange);
+    }
+    .search__inner{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        input{
+            background-color: rgb(64, 64, 64);
+            padding: 15px 25px;
+            border-radius: 8px;
+            outline: none;
+            width: 65%;
+            border: none;
+            color: white;
+        }
+        button{
+            background-color: var(--lightOrange);
+            border: none;
+            padding: 15px 25px;
+            border-radius: 8px;
+        }
+    }
+}

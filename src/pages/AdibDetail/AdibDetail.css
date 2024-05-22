@@ -1,0 +1,39 @@
+.umumiy{
+    display: flex;
+    justify-content: space-evenly;
+}
+.adib__img{
+    width: 482px;
+    height: 579px;
+    background-size: cover;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+.adib__h4{
+    color: var(--lightOrange);
+    font-size: 39px;
+    font-weight: 400;
+    line-height: 144.4%;
+    margin-left: 100px;
+    margin-top: 35px;
+}
+.adib__h3{
+    color: white;
+    width: 671px;
+    height: 253px;
+    margin-left: 97px;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 144.4%;
+}
+.adib__h1{
+    text-align: left;
+    margin-left: 93px;
+    color: var(--lightOrange);
+}
+.book__list2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
